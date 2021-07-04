@@ -10,7 +10,7 @@ Maven
   
 ### Guides  
   
-1. Step 1: prepare the properties file
+1. Step 1: Navigate to bin directory and modify the properties files if needed.
  2. Step 2:
  In the terminal, run the two following commands to start two game players:    
 
