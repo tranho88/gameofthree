@@ -1,0 +1,8 @@
+server:
+  port: 8081
+game-config:
+  opponent-uri: http://localhost:8080
+  opponent-id: 1
+  self-id: 2
+  max-range: 10000
+  auto: true
